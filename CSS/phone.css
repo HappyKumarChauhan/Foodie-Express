@@ -1,0 +1,30 @@
+#navbar{
+    flex-direction: column;
+    height: 100%;
+}
+
+#navbar ul li a{
+    font-size:  1rem;
+    padding: 0px 6px;
+}
+#home{
+    height: 430px;
+}
+.item-details-container{
+    flex-direction: column;
+}
+.service-container{
+    flex-direction: column;
+}
+.service-description{
+    align-items: center;
+}
+.contact-container{
+    flex-direction: column;
+}
+.contact-form{
+    width: 85vw;
+}
+.contact-address{
+    width: 100%;
+}
